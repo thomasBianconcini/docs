@@ -10,7 +10,7 @@ Kafka location is an address exspressed in this URL: `kafka://localhost:9092?top
 
 * `id` is the groupId name of the consumer group.
 
-* `type` = byte is the default way to send message through Topic, for future implementations can be extendended to other types.
+* `type` byte is the default way to send message through Topic, for future implementations can be extendended to other types.
 
 For all the info about Kafka: https://kafka.apache.org/
 
