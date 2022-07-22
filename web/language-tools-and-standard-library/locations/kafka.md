@@ -76,6 +76,6 @@ service Greeter {
 ```
 Only the OneWay are available cause RequestResponse call with Kafka would lead to problems.
 
-To communicate with no Jolie Service is highly recommended to use Sodep Protocol n in case of Output port the Service send a message casted in json in this String `{"method":"greet","sodepAsync":"1.0","id":2,"params":{"name":"mick"},"resorucePath":"\/"}`.
+To communicate with no Jolie Service is highly recommended to use Sodep Protocol in case of Output port the Service send a message casted in json in this String `{"method":"greet","sodepAsync":"1.0","id":2,"params":{"name":"mick"},"resorucePath":"\/"}`.
 
-If you have to send a request to a Server jolie from outside you need to write in the Topic the same String in json.
+If you have to send a request to a Server jolie from outside you need to write in the Topic the same String format.
