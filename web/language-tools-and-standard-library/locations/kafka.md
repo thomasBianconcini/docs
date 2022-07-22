@@ -1,4 +1,4 @@
-alert{ AlphaVersion }
+AlphaVersion
 ## Kafka
 
 Kafka implements asynchronous call in Jolie.
