@@ -91,7 +91,8 @@
   * [Local](language-tools-and-standard-library/locations/local.md)
   * [Btl2Cap](language-tools-and-standard-library/locations/btl2cap.md)
   * [RMI](language-tools-and-standard-library/locations/rmi.md)
-  * [LocalSocket](language-tools-and-standard-library/locations/localsocket.md)
+  * [LocalSocket](language-tools-and-standard-library/locations/localsocket.md
+  * [Kafka](language-tools-and-standard-library/locations/kafka.md)
 * [Databases](language-tools-and-standard-library/databases/README.md)
   * [Databases](language-tools-and-standard-library/databases/databases.md)
 * [Mock Services](language-tools-and-standard-library/mock/README.md)
